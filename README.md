@@ -2,10 +2,10 @@
 Awesome Rafeindavirkjun Listi
 
 # Efnisyfirlit
-* [Vefsíður](Vefsíður)
-* [Skemur](Skemur og fleira)
-
-
+* [Vefsíður](#vefsur)
+    - [Skemur](#skemur-og-fleira)
+[Forrit](#forrit)
+[Nám á Íslandi](#rafeindavirkjanm--slandi)
 # Vefsíður
 
 ## Skemur og fleira
@@ -13,7 +13,7 @@ Awesome Rafeindavirkjun Listi
 * [EL34World](https://el34world.com/)
 * [Music Electronics Forum](https://music-electronics-forum.com)
 
-## Forrit og tól
+## Forrit
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
