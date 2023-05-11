@@ -1,6 +1,10 @@
 # Rafeindavirkjun
 Awesome Rafeindavirkjun Listi
 
+# Efnisyfirlit
+* [Vefsíður](Vefsíður)
+* [Skemur](Skemur og fleira)
+
 
 # Vefsíður
 
