@@ -19,3 +19,27 @@ Awesome Rafeindavirkjun Listi
 * [MicroChip Spice Models 2](https://www.microsemi.com/document-portal/cat_view/56661-internal-documents/5674-spice-datasheets)
 * [Little Fuse](https://www.littelfuse.com/technical-resources/spice-models.aspx)
 * [Kyocera](https://www.kyocera-avx.com/design-tools/spice-models/)
+
+## Skólar og nám
+
+Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem hafa grunndeild rafiðna:
+
+Fjölbrautaskólanum í Breiðholti:  [http://www.fb.is/rafvirkjabraut/](http://www.fb.is/rafvirkjabraut/ "Rafvirkjabraut FB")
+
+Tækniskólanum: [http://www.tskoli.is/skolar/raftaekniskolinn](http://www.tskoli.is/skolar/raftaekniskolinn "Raftækniskólinn")
+
+Iðnskólanum í Hafnarfirði: [http://www.idnskolinn.is/mc/namid/um-rafidnir/](http://www.idnskolinn.is/mc/namid/um-rafidnir/ "Iðnskólinn í Hafnarfirði")
+
+Verkmenntaskólanum á Akureyri:  [http://www.vma.is/is/moya/page/o\_grunndeild\_rafidna](http://www.vma.is/is/moya/page/o_grunndeild_rafidna "Rafvirkjabraut VMA")
+
+Menntaskólanum á Ísafirði [http://www.fvi.is/namid/grunnnam_rafidna/](http://www.fvi.is/namid/grunnnam_rafidna/ "Grunnám rafiðna á Ísafirði")
+
+Verkmenntaskólanum Austurlandi [http://www.va.is/is/moya/page/grunnnam-rafidna-gr-](http://www.va.is/is/moya/page/grunnnam-rafidna-gr- "Grunndeild rafiðna á Austurlandi")
+
+Fjölbrautaskóla Suðurnesja [http://www.fss.is/index.php/grunnnam-rafidhna-gr-80-ein](http://www.fss.is/index.php/grunnnam-rafidhna-gr-80-ein "Grunndeild rafiðna á Suðurnesjum")
+
+Fjölbrautaskóla Vesturlands á Akranesi [http://www.fva.is/raf/](http://www.fva.is/raf/ "Grunndeild rafiðna á Akranesi")
+
+Framhaldsskólanum í Vestmannaeyjum [http://www.fiv.is/default.asp?sid\_id=27420&tId=1&Tre\_Rod=001|002|006|001|&qsr](http://www.fiv.is/default.asp?sid_id=27420&tId=1&Tre_Rod=001|002|006|001|&qsr "Grunndeild rafiðna í Vestmannaeyjum")
+
+Fjölbrautaskólanum á Suðurlandi [http://www2.fsu.is/index.php/namsbrautirhuldar/1360-grunnnam-rafiena-gr]("Grunndeild rafiðna á Selfossi")
