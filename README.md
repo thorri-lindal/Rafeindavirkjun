@@ -1,11 +1,6 @@
 # Rafeindavirkjun
 Awesome Rafeindavirkjun Listi
 
-# Efnisyfirlit
-* [Vefsíður](#vefsur)
-    - [Skemur](#skemur-og-fleira)
-[Forrit](#forrit)
-[Nám á Íslandi](#rafeindavirkjanm--slandi)
 # Vefsíður
 
 ## Skemur og fleira
@@ -17,6 +12,7 @@ Awesome Rafeindavirkjun Listi
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
+
 ## Spice Library
 * [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
 * [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
@@ -41,13 +37,13 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 
 [Verkmenntaskólanum á Akureyri](http://www.vma.is/is/moya/page/o_grunndeild_rafidna)
 
- [Menntaskólanum á Ísafirði](http://www.fvi.is/namid/grunnnam_rafidna/)
+[Menntaskólanum á Ísafirði](http://www.fvi.is/namid/grunnnam_rafidna/)
 
- [Verkmenntaskólanum Austurlandi](http://www.va.is/is/moya/page/grunnnam-rafidna-gr-)
+[Verkmenntaskólanum Austurlandi](http://www.va.is/is/moya/page/grunnnam-rafidna-gr-)
 
 [Fjölbrautaskóla Suðurnesja](http://www.fss.is/index.php/grunnnam-rafidhna-gr-80-ein "Grunndeild rafiðna á Suðurnesjum")
 
- [Fjölbrautaskóla Vesturlands á Akranesi](http://www.fva.is/raf/)
+[Fjölbrautaskóla Vesturlands á Akranesi](http://www.fva.is/raf/)
 
 [Framhaldsskólanum í Vestmannaeyjum](http://www.fiv.is/default.asp?sid_id=27420&tId=1&Tre_Rod=001|002|006|001|&qsr "Grunndeild rafiðna í Vestmannaeyjum")
 
