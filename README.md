@@ -17,6 +17,12 @@ Awesome Rafeindavirkjun Listi
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
+* [Multisim](https://www.multisim.com/)
+* [PSpice](https://www.pspice.com/)
+* [KiCad](https://www.kicad.org/)
+* [Autocad Electrical](https://www.autodesk.com/products/autocad/included-toolsets/autocad-electrical)
+* [ANSYS](https://www.ansys.com/products/electronics)
+* [PowerWorld](https://www.powerworld.com/products/simulator/overview)
 ## Spice Library
 * [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
 * [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
@@ -52,3 +58,12 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 [Framhaldsskólanum í Vestmannaeyjum](http://www.fiv.is/default.asp?sid_id=27420&tId=1&Tre_Rod=001|002|006|001|&qsr "Grunndeild rafiðna í Vestmannaeyjum")
 
 [Fjölbrautaskólanum á Suðurlandi](http://www2.fsu.is/index.php/namsbrautirhuldar/1360-grunnnam-rafiena-gr)
+
+
+# Myndbönd
+## Forrit
+[Spice Simulation í KiCad 6.0](https://www.youtube.com/watch?v=Bf4n697qHjU)
+
+# Búnaður
+## Lóðboltar
+[PineCil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
