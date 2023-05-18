@@ -180,6 +180,13 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Engineering Explained](https://www.youtube.com/user/EngineeringExplained): Ítarleg myndbönd um bifvélavirkjun og rafmagnsfræði og grunnatriiði þess.
 - [Frank Makes](https://www.youtube.com/user/FrankMakes): Samblanda af viðarsmiði og rafmagnsfræði, vel smíðuð DIY verkefni.
 - [Ben Eater](https://www.youtube.com/user/eaterbc): Ítarleg myndbönd um tölvunarfræði og rafmagnsfræði, kennslymyndbönd um smíði á brauðbretti.
+- [MJLorton](https://www.youtube.com/user/mjlorton)
+- [jkgamm041](https://www.youtube.com/user/jkgamm041)
+- [EcProjects](https://www.youtube.com/user/EcProjects)
+- [Photonvids](https://www.youtube.com/user/Photonvids)
+- [sdgelectronics](https://www.youtube.com/user/sdgelectronics)
+- [paceworldwide](https://www.youtube.com/user/paceworldwide)
+
 
 </details>
 
