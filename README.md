@@ -16,11 +16,20 @@ Hugmyndir að projects:
 - [Hackaday.io](https://hackaday.io)
 
 Síður um ýmislegt áhugavert tengt rafmagni:
-- [Electronics Tutorials](https://www.electronics-tutorials.ws)
+- [Adafruit Industries](https://www.adafruit.com)
 - [All About Circuits](https://www.allaboutcircuits.com)
+- [Circuit Digest](https://circuitdigest.com)
 - [ElectroSchematics](https://www.electroschematics.com)
+- [Electronics For You](https://electronicsforu.com)
 - [Electronics Hub](https://www.electronicshub.org)
+- [Electronics Point](https://www.electronicspoint.com)
+- [Electronics Stack Exchange](https://electronics.stackexchange.com)
+- [Electronics Tutorials](https://www.electronics-tutorials.ws)
+- [Electronics-Lab](https://www.electronics-lab.com)
 - [EEVblog](https://www.eevblog.com)
+- [Electro Tech Online](https://www.electro-tech-online.com)
+- [Engineer's Garage](https://www.engineersgarage.com)
+- [SparkFun Electronics](https://www.sparkfun.com)
 
 ## Skemur
 
@@ -48,7 +57,6 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 
 <details>
 <summary> Vefsíður sem hýsa Spice libraries </summary>
-
 * [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
 * [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
 * [Cordell](https://www.cordellaudio.com/book/spice_models.shtml)
@@ -59,7 +67,6 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 * [MicroChip Spice Models 2](https://www.microsemi.com/document-portal/cat_view/56661-internal-documents/5674-spice-datasheets)
 * [Little Fuse](https://www.littelfuse.com/technical-resources/spice-models.aspx)
 * [Kyocera](https://www.kyocera-avx.com/design-tools/spice-models/)
-
 </details>
 
 
@@ -70,7 +77,6 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 
 <details>
 <summary> Simulation forrit </summary>
-
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
@@ -80,14 +86,10 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 * [Autocad Electrical](https://www.autodesk.com/products/autocad/included-toolsets/autocad-electrical)
 * [ANSYS](https://www.ansys.com/products/electronics)
 * [PowerWorld](https://www.powerworld.com/products/simulator/overview)
-
 </details>
-
-<details>
 <summary> PCB hönnun </summary>
 
 ## PCB
-
 - [Altium Designer](https://www.altium.com/)
 - [Autodesk EAGLE](https://www.autodesk.com/products/eagle/overview)
 - [KiCad EDA](https://kicad-pcb.org/)
@@ -98,7 +100,6 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 - [Zuken CR-8000](https://www.zuken.com/en/product/cr-8000/)
 - [EasyEDA](https://easyeda.com/)
 - [CircuitMaker](https://circuitmaker.com/)
-
 </details>
 
 # Nám
@@ -206,14 +207,10 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Photonvids](https://www.youtube.com/user/Photonvids)
 - [sdgelectronics](https://www.youtube.com/user/sdgelectronics)
 - [paceworldwide](https://www.youtube.com/user/paceworldwide)
-
-
 </details>
 
 # Búnaður
-
 ## Lóðboltar
-
 [PineCil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
 
 # Bækur
