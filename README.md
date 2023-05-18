@@ -48,7 +48,31 @@
 
 # Nám
 
+## Rafmagnsfræði nám í Evrópu (BSc/MSc)
+
+- **Sviss**
+  - [ETH Zurich](https://www.ethz.ch/en.html)
+  - [EPFL - Ecole Polytechnique Federale de Lausanne](https://www.epfl.ch/en/)
+- **Þýskaland**
+  - [Technical University of Munich](https://www.tum.de/en/)
+  - [RWTH Aachen University](https://www.rwth-aachen.de/)
+- **Holland**
+  - [Delft University of Technology](https://www.tudelft.nl/en/)
+- **Svíþjóð**
+  - [KTH Royal Institute of Technology](https://www.kth.se/en)
+- **Belgía**
+  - [KU Leuven](https://www.kuleuven.be/english/)
+- **Danmörk**
+  - [Technical University of Denmark](https://www.dtu.dk/english)
+- **Ítalía**
+  - [Politecnico di Milano](https://www.polimi.it/en/)
+- **Frakkland**
+  - [Ecole Polytechnique](https://www.polytechnique.edu/)
+
 ## Rafeindavirkjanám á Íslandi
+
+<details>
+<summary>Listi yfir skóla sem bjóa upp á rafeindavirkjun</summary>
 
 Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem hafa grunndeild rafiðna:
 
@@ -71,6 +95,8 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 [Framhaldsskólanum í Vestmannaeyjum](http://www.fiv.is/default.asp?sid_id=27420&tId=1&Tre_Rod=001|002|006|001|&qsr "Grunndeild rafiðna í Vestmannaeyjum")
 
 [Fjölbrautaskólanum á Suðurlandi](http://www2.fsu.is/index.php/namsbrautirhuldar/1360-grunnnam-rafiena-gr)
+
+</details>
 
 # Myndbönd
 
@@ -118,6 +144,4 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 # Bækur
 
 * [Fundamentals of Electrical Engineering](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) – Open-source kennslubók eftir Don Johnson
-
-
 
