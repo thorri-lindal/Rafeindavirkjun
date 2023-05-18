@@ -90,6 +90,8 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 <summary> PCB hönnun </summary>
 
 ## PCB
+<details>
+  <summary> PCB-hönnunar forrit </summary>
 - [Altium Designer](https://www.altium.com/)
 - [Autodesk EAGLE](https://www.autodesk.com/products/eagle/overview)
 - [KiCad EDA](https://kicad-pcb.org/)
