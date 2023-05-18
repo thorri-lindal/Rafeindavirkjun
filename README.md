@@ -9,6 +9,9 @@
 
 ## Skemur
 
+<details>
+<summary> Vefsíður sem hýsa skemur </summary>
+
 - [EL34World](https://el34world.com/)
 - [Music Electronics Forum](https://music-electronics-forum.com)
 - [EEWeb](https://www.eeweb.com/)
@@ -22,7 +25,14 @@
 - [Circuit Digest](https://circuitdigest.com/)
 - [Build Electronic Circuits](https://www.build-electronic-circuits.com/)
 
+</details>
+
+
+
 ## Spice Library
+
+<details>
+<summary> Vefsíður sem hýsa Spice libraries </summary>
 
 * [YouSpice](https://www.youspice.com/links-to-spice-libraries/)
 * [LT Wiki](https://ltwiki.org/?title=Components_Library_and_Circuits)
@@ -35,9 +45,16 @@
 * [Little Fuse](https://www.littelfuse.com/technical-resources/spice-models.aspx)
 * [Kyocera](https://www.kyocera-avx.com/design-tools/spice-models/)
 
+</details>
+
+
+
 # Forrit
 
 ## Simulation
+
+<details>
+<summary> Simulation forrit </summary>
 
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
@@ -48,6 +65,11 @@
 * [Autocad Electrical](https://www.autodesk.com/products/autocad/included-toolsets/autocad-electrical)
 * [ANSYS](https://www.ansys.com/products/electronics)
 * [PowerWorld](https://www.powerworld.com/products/simulator/overview)
+
+</details>
+
+<details>
+<summary> PCB hönnun </summary>
 
 ## PCB
 
@@ -61,11 +83,15 @@
 - [Zuken CR-8000](https://www.zuken.com/en/product/cr-8000/)
 - [EasyEDA](https://easyeda.com/)
 - [CircuitMaker](https://circuitmaker.com/)
-  
+
+</details>
 
 # Nám
 
 ## Rafmagnsfræði nám í Evrópu (BSc/MSc)
+
+<details>
+<summary> Skólar eftir löndum </summary>
 
 - **Sviss**
   - [ETH Zurich](https://www.ethz.ch/en.html)
@@ -85,6 +111,8 @@
   - [Politecnico di Milano](https://www.polimi.it/en/)
 - **Frakkland**
   - [Ecole Polytechnique](https://www.polytechnique.edu/)
+
+</details>
 
 ## Rafeindavirkjanám á Íslandi
 
@@ -152,10 +180,6 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Ben Eater](https://www.youtube.com/user/eaterbc): Ítarleg myndbönd um tölvunarfræði og rafmagnsfræði, kennslymyndbönd um smíði á brauðbretti.
 
 </details>
-
-## Tutorial um forrit
-
-[Spice Simulation í KiCad 6.0](https://www.youtube.com/watch?v=Bf4n697qHjU)
 
 # Búnaður
 
