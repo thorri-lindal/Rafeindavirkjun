@@ -15,6 +15,12 @@ Hugmyndir að projects:
 - [Makezine](https://makezine.com/category/electronics/)
 - [Hackaday.io](https://hackaday.io)
 
+Síður um ýmislegt áhugavert tengt rafmagni:
+- [Electronics Tutorials](https://www.electronics-tutorials.ws)
+- [All About Circuits](https://www.allaboutcircuits.com)
+- [ElectroSchematics](https://www.electroschematics.com)
+- [Electronics Hub](https://www.electronicshub.org)
+- [EEVblog](https://www.eevblog.com)
 
 ## Skemur
 
@@ -151,6 +157,13 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 [Fjölbrautaskólanum á Suðurlandi](http://www2.fsu.is/index.php/namsbrautirhuldar/1360-grunnnam-rafiena-gr)
 
 </details>
+
+## MOOC eða skólar sem bjóða nám á netinu
+- [Coursera](https://www.coursera.org)
+- [edX](https://www.edx.org)
+- [Udemy](https://www.udemy.com)
+- [Khan Academy](https://www.khanacademy.org)
+- [Alison](https://alison.com)
 
 # Myndbönd
 
