@@ -87,6 +87,7 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 * [ANSYS](https://www.ansys.com/products/electronics)
 * [PowerWorld](https://www.powerworld.com/products/simulator/overview)
 </details>
+
 ## PCB
 <details>
   <summary> PCB-hönnunar forrit </summary>
