@@ -138,8 +138,6 @@ Síður um ýmislegt áhugavert tengt rafmagni:
 
 Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem hafa grunndeild rafiðna:
 
-[Fjölbrautaskólanum í Breiðholti](http://www.fb.is/rafvirkjabraut)
-
 [Tækniskólanum](http://www.tskoli.is/skolar/raftaekniskolinn)
 
 [Iðnskólanum í Hafnarfirði](http://www.idnskolinn.is/mc/namid/um-rafidnir/ "Iðnskólinn í Hafnarfirði")
@@ -208,6 +206,7 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Photonvids](https://www.youtube.com/user/Photonvids)
 - [sdgelectronics](https://www.youtube.com/user/sdgelectronics)
 - [paceworldwide](https://www.youtube.com/user/paceworldwide)
+- [Uncle Doug](https://www.youtube.com/@UncleDoug) Allt til að vita um lampamagnara, bilanargreiningu og hvernig þeir virka og hvrernig á að hanna þá.
 </details>
 
 # Búnaður
