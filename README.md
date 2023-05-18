@@ -1,5 +1,24 @@
 **Rafeindavirkjun**
 
+TOC
+
+- [Vefsíður](#vefs--ur)
+  * [Áhugavert](#-hugavert)
+  * [Skemur](#skemur)
+  * [Spice Library](#spice-library)
+- [Forrit](#forrit)
+- [Nám](#n-m)
+  * [Rafmagnsfræði nám í Evrópu (BSc/MSc)](#rafmagnsfr--i-n-m---evr-pu--bsc-msc-)
+  * [Rafeindavirkjanám á Íslandi](#rafeindavirkjan-m----slandi)
+- [Myndbönd](#myndb-nd)
+  * [YouTube Channel](#youtube-channel)
+  * [Tutorial um forrit](#tutorial-um-forrit)
+- [Búnaður](#b-na-ur)
+  * [Lóðboltar](#l--boltar)
+- [Bækur](#b-kur)
+
+
+
 # Vefsíður
 
 ## Áhugavert
@@ -100,7 +119,10 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 
 # Myndbönd
 
-## YouTube Channel:
+## YouTube Channel
+
+<details>
+<summary>Listi yfir YouTube-rásir með áhugaverðu efni um rafeindavirkjun og rafmagnsfræði</summary>
 
 - [Eugene Khutoryansky](https://www.youtube.com/@EugeneKhutoryansky): Eðlisfræði, rafmagnsfræði og stærðfræði sýnimyndbönd til að gera viðfangsefnin aðgengilegri.
 - [ElectroBOOM](https://www.youtube.com/@ElectroBOOM): Áhugaverð kennslumyndbönd um rafmagnsfræði með grín-ívafi.
@@ -130,6 +152,8 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Engineering Explained](https://www.youtube.com/user/EngineeringExplained): Ítarleg myndbönd um bifvélavirkjun og rafmagnsfræði og grunnatriiði þess.
 - [Frank Makes](https://www.youtube.com/user/FrankMakes): Samblanda af viðarsmiði og rafmagnsfræði, vel smíðuð DIY verkefni.
 - [Ben Eater](https://www.youtube.com/user/eaterbc): Ítarleg myndbönd um tölvunarfræði og rafmagnsfræði, kennslymyndbönd um smíði á brauðbretti.
+
+</details>
 
 ## Tutorial um forrit
 
