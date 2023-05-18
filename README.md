@@ -204,7 +204,7 @@ Keyptar bækur:
 - [Mims III, Getting Started in Electronics](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282)
 - [Geier, How to Diagnose & Fix Everything Electronic](https://www.amazon.com/How-Diagnose-Everything-Electronic-Second/dp/0071744223)
 - [Kybett & Boysen, All New Electronics Self-Teaching Guide](https://www.amazon.com/All-New-Electronics-Self-Teaching-Guide/dp/1118217322)
-- [Scherz & Monk, Practical Electronics for Inventors (arguably has minor issues with mains grounding)](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
+- [Scherz & Monk, Practical Electronics for Inventors](https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541)
 - [Horowitz and Hill, The Art of Electronics](https://www.amazon.com/Art-Electronics-Paul-Horowitz/dp/0521809266)
 
 
