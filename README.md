@@ -1,5 +1,7 @@
 **Rafeindavirkjun**
 
+Ath. til þess að ná í möppu af bókum er hægt að nota [þessa síðu](https://download-directory.github.io/)
+
 
 # Vefsíður
 
