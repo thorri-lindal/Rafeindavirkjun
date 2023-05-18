@@ -191,5 +191,5 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 
 # Bækur
 
-* [Fundamentals of Electrical Engineering](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) – Open-source kennslubók eftir Don Johnson
+* [Fundamentals of Electrical Engineering](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) – Open-source kennslubók eftir Don Johnson [![Alt text](https://camo.githubusercontent.com/3481414765df8f5f81444651c05cdf78325f0ede49471c53d29dffd443090eba/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d6f73732e737667)](https://opensource.com/)
 
