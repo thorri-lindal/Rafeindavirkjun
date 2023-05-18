@@ -206,7 +206,7 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Photonvids](https://www.youtube.com/user/Photonvids)
 - [sdgelectronics](https://www.youtube.com/user/sdgelectronics)
 - [paceworldwide](https://www.youtube.com/user/paceworldwide)
-- [Uncle Doug](https://www.youtube.com/@UncleDoug) Allt til að vita um lampamagnara, bilanargreiningu og hvernig þeir virka og hvrernig á að hanna þá.
+- [Uncle Doug](https://www.youtube.com/@UncleDoug) Allt til að vita um lampamagnara, bilanargreiningu, hvernig þeir virka og hvernig á að hanna þá.
 </details>
 
 # Búnaður
