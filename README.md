@@ -1,23 +1,5 @@
 **Rafeindavirkjun**
 
-TOC
-
-- [Vefsíður](#vefs--ur)
-  * [Áhugavert](#-hugavert)
-  * [Skemur](#skemur)
-  * [Spice Library](#spice-library)
-- [Forrit](#forrit)
-- [Nám](#n-m)
-  * [Rafmagnsfræði nám í Evrópu (BSc/MSc)](#rafmagnsfr--i-n-m---evr-pu--bsc-msc-)
-  * [Rafeindavirkjanám á Íslandi](#rafeindavirkjan-m----slandi)
-- [Myndbönd](#myndb-nd)
-  * [YouTube Channel](#youtube-channel)
-  * [Tutorial um forrit](#tutorial-um-forrit)
-- [Búnaður](#b-na-ur)
-  * [Lóðboltar](#l--boltar)
-- [Bækur](#b-kur)
-
-
 
 # Vefsíður
 
@@ -55,6 +37,8 @@ TOC
 
 # Forrit
 
+## Simulation
+
 * [MATLAB](https://www.mathworks.com/products/matlab.html)
 * [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 * [Livespice](http://www.livespice.org/)
@@ -64,6 +48,20 @@ TOC
 * [Autocad Electrical](https://www.autodesk.com/products/autocad/included-toolsets/autocad-electrical)
 * [ANSYS](https://www.ansys.com/products/electronics)
 * [PowerWorld](https://www.powerworld.com/products/simulator/overview)
+
+## PCB
+
+- [Altium Designer](https://www.altium.com/)
+- [Autodesk EAGLE](https://www.autodesk.com/products/eagle/overview)
+- [KiCad EDA](https://kicad-pcb.org/)
+- [Cadence OrCAD](https://www.orcad.com/)
+- [Mentor Graphics PADS](https://www.pads.com/)
+- [DipTrace](https://www.diptrace.com/)
+- [Proteus Design Suite](https://www.labcenter.com/)
+- [Zuken CR-8000](https://www.zuken.com/en/product/cr-8000/)
+- [EasyEDA](https://easyeda.com/)
+- [CircuitMaker](https://circuitmaker.com/)
+  
 
 # Nám
 
