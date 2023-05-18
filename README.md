@@ -218,6 +218,9 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [Fundamentals of Electrical Engineering](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) – Open-source kennslubók eftir Don Johnson [![Alt text](https://camo.githubusercontent.com/3481414765df8f5f81444651c05cdf78325f0ede49471c53d29dffd443090eba/68747470733a2f2f6a617977636a6c6f76652e6769746875622e696f2f73622f69636f2f6d696e2d6f73732e737667)](https://opensource.com/)
 
 Keyptar bækur:
+<details>
+  <summary> Keyptar bækur </summary>
+
 - [Mims III, Getting Started in Electronics](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282)
 - [Geier, How to Diagnose & Fix Everything Electronic](https://www.amazon.com/How-Diagnose-Everything-Electronic-Second/dp/0071744223)
 - [Kybett & Boysen, All New Electronics Self-Teaching Guide](https://www.amazon.com/All-New-Electronics-Self-Teaching-Guide/dp/1118217322)
@@ -228,6 +231,6 @@ Keyptar bækur:
 - ["Getting Started in Electronics" by Forrest M. Mims III](https://www.amazon.com/Getting-Started-Electronics-Forrest-Mims/dp/0945053282)
 - ["Electronic Devices and Circuit Theory" by Robert L. Boylestad and Louis Nashelsky](https://www.amazon.com/Electronic-Devices-Circuit-Theory-11th/dp/0132622262)
 - ["Microelectronic Circuits" by Adel S. Sedra and Kenneth C. Smith](https://www.amazon.com/Microelectronic-Circuits-Oxford-Series-Electricalelectronics/dp/0199339139)
-
+</details>
 
 
