@@ -9,6 +9,13 @@ Ath. til þess að ná í möppu af bókum er hægt að nota [þessa síðu](htt
 
 [Awesome Electronics](https://github.com/kitspace/awesome-electronics) - langur listi af ýmislegu áhugaverðu um rafeindavirkjun
 
+Hugmyndir að projects:
+- [Adafruit](https://adafruit.com)
+- [Instructables](https://instructables.com/tag/type-id/category-technology/)
+- [Makezine](https://makezine.com/category/electronics/)
+- [Hackaday.io](https://hackaday.io)
+
+
 ## Skemur
 
 <details>
