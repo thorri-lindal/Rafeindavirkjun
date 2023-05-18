@@ -61,9 +61,13 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 
 
 # Myndbönd
-## Forrit
+# Forrit
 [Spice Simulation í KiCad 6.0](https://www.youtube.com/watch?v=Bf4n697qHjU)
 
 # Búnaður
 ## Lóðboltar
 [PineCil](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/)
+
+# Bækur
+* [Fundamentals of Electrical Engineering](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) – Open-source kennslubók eftir Don Johnson
+
