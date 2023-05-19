@@ -207,6 +207,8 @@ Hér er hægt að sjá uppröðun á áföngum hjá þeim framhaldsskólum sem h
 - [sdgelectronics](https://www.youtube.com/user/sdgelectronics)
 - [paceworldwide](https://www.youtube.com/user/paceworldwide)
 - [Uncle Doug](https://www.youtube.com/@UncleDoug) Allt til að vita um lampamagnara, bilanargreiningu og hvernig þeir virka og hvrernig á að hanna þá.
+- [TechMoan](https://www.youtube.com/@Techmoan/videos) Fer yfir mikið af gömlum raftækjum. Yfirleitt í mjög grófum dráttum, en ekki um nákvæma virkni tækjana.
+- [TronicsFix](https://www.youtube.com/@Tronicsfix) Gerir við mikið af leikjatölvum, Playstation, Xbox og Switch. Auk síma og annara hluta.
 </details>
 
 # Búnaður
